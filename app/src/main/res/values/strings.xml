@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="movie_detail">Movie Detail</string>
+    <string name="poster_image">Poster Image</string>
+    <string name="year">Year</string>
+    <string name="rating">Rating</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="sort_by_popularity">Sort by Popularity</string>
+    <string name="sort_by_average_rate">Sort by Top Rated</string>
+    <string name="some_error_occurred_check_your_internet_connection">Some error occurred. Check your internet connection.</string>
+    <string name="check_your_internet_connection">Check your internet connection.</string>
+    <string name="retry">Retry…</string>
+    <string name="trailer_title">Trailer Title</string>
+    <string name="author">Author:</string>
+    <string name="review">Review:</string>
+    <string name="mark_as_favorite">Mark as\nFavorite</string>
+    <string name="sort_by_favorites">Sort by Favorites</string>
+    <string name="remove_from_favorites">Remove From\nFavorites</string>
+    <string name="empty">Empty!</string>
+    <string name="trailers">Trailers:</string>
+    <string name="reviews">Reviews:</string>
+    <string name="favorite_star">favorite star</string>
+</resources>
